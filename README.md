@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to handling null and undefined values when accessing object properties.  The initial code only checks for null, leading to potential runtime errors when undefined is passed. The solution provides a more robust check that handles both cases gracefully.
